@@ -233,5 +233,10 @@
         "commit": "356d0f75492e8233d3b4ea17b39379208811920d",
         "name": "example-pwm",
         "source": "git@github.com:sifive/example-pwm.git"
+    },
+    {
+        "commit": "864375dc2155f7c5bdaaf64e9e488a4b34f38652",
+        "name": "example-buserror",
+        "source": "git@github.com:sifive/example-buserror.git"
     }
 ]

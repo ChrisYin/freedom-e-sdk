@@ -136,3 +136,6 @@
 [submodule "scripts/esdk-settings-generator"]
 	path = scripts/esdk-settings-generator
 	url = https://github.com/sifive/esdk-settings-generator.git
+[submodule "software/example-buserror"]
+	path = software/example-buserror
+	url = https://github.com/sifive/example-buserror.git
